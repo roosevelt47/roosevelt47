@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsvlt.04.coder@gmail.com)](mailto:rsvlt.04.coder@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/)](https://www.youtube.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) [![Gmail Badge](https://img.shields.io/badge/-rsvlt.04.coder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsvlt.04.coder@gmail.com)](mailto:rsvlt.04.coder@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Rxse%20YT%20-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/)](https://www.youtube.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roosevelt" alt="Roosevelt47" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
