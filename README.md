@@ -27,16 +27,18 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  	user = 'Jasraj'
 	current_edu = "School"
 	hobbies = [
+				`CSGO`
+				`Networking`
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Home_India()
 	
 	def Ambitions():
-		LearnJapanese()
+		LearnNetworking()
 		CreateSkyNet()
-		FinishMyNovel()
+		CSGOGlobal()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
@@ -49,6 +51,6 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
   - :octocat: [My Resume](https://google.com/)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=roosevelt47&show_icons=true&hide=[%22issues%22])
+![Roosevelt's github stats](https://github-readme-stats.vercel.app/api?username=roosevelt47&show_icons=true&hide=[%22issues%22])
  
  
