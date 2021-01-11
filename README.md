@@ -10,10 +10,10 @@
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+* Networking
+* Virtualization
+* Cybersecurity
+* Web App Pen
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt47&layout=compact">
 
