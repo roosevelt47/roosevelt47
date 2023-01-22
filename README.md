@@ -3,7 +3,6 @@
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-[![Gmail Badge](https://img.shields.io/badge/-rsvlt.04.coder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsvlt.04.coder@gmail.com)](mailto:rsvlt.04.coder@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roosevelt" alt="Roosevelt47" /> </p>
 
 
