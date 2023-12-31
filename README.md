@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jasraj Johal</h1>
 
 <h3 align="center">A Computer Science student :)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roosevelt47&color=0e75b6&style=flat-square" alt="Roosevelt47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roosevelt47&base=200&color=0e75b6&style=flat-square" alt="Roosevelt47" /> </p>
 
 📫 How to reach me **johalj11@mcmaster.ca**
 
